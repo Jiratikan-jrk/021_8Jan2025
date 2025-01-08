@@ -19,6 +19,7 @@
 				<li><a href="contact234.php">ติดต่อ</li>
                 <li><a href="detail.php">รายละเอียดเพิ่มเติม</li>
                 <li><a href="Phone.php">เบอร์โทรติดต่อ</li>
+                <li><a href="name.php">=ชื่อผู้เข้าพัก</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
